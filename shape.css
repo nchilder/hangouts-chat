@@ -264,6 +264,11 @@ img {
   height: 0px;
   border-radius: 0px;
 }
+.OcqlLb {
+  width: 0px;
+  height: 0px;
+  border-radius: 0px;
+}
 .yDIlKc .OcqlLb, .W0hon .OcqlLb .OcqlLb.vif9vc {
   width: 0px;
   height: 0px;
@@ -272,4 +277,11 @@ img {
   height: 0px;
   width: 0px;
   border-radius: 0px;
+  min-height: 0px;
+  min-width: 0px;
+}
+.DO97we {
+  border-radius: 0px;
+  height: 0px;
+  width: 0px;
 }
