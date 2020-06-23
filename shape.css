@@ -259,11 +259,11 @@ img {
     height: 100px !important;
     width: auto !important;
 }
-.WmSnJd {
+/* .WmSnJd {
   width: 0px;
   height: 0px;
   border-radius: 0px;
-}
+} */
 .OcqlLb {
   width: 0px;
   height: 0px;
@@ -284,4 +284,10 @@ img {
   border-radius: 0px;
   height: 0px;
   width: 0px;
+}
+.Qgwczb {
+  min-height: 0px;
+  min-width: 0px;
+  height: 4px;
+  width: 4px;
 }
