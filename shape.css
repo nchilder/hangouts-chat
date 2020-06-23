@@ -259,8 +259,12 @@ img {
     height: 100px !important;
     width: auto !important;
 }
-.WmSnJd .OcqlLb .zEysJf .hy2WD .vif9vc {
+.WmSnJd {
   width: 0px;
   height: 0px;
   border-radius: 0px;
+}
+.OcqlLb .zEysJf .hy2WD + .vif9vc {
+  width: 0px;
+  height: 0px;
 }
