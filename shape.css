@@ -48,6 +48,8 @@
 .aOHsTc {
     font-size: 16px;
     margin-left: 16px;
+    text-transform: lowercase;
+    height: 16px;
 }
 
 /* Search Menu shape and dimensions */
@@ -258,4 +260,11 @@ img {
 .rNTKFb.Tvakkc, .tHcB6b .wU0G2b, .rNTKFb.Tvakkc + .bBukm /* image (for links) */ {
     height: 100px !important;
     width: auto !important;
+}
+.RsRwdf {
+  line-height: 100%;
+}
+.zEysJf, .DO97we {
+  height: 0px;
+  width: 0px;
 }
