@@ -68,5 +68,5 @@ function loadCSS(cssPath) {
     });
 }
 
-loadCSS('https://raw.githubusercontent.com/paveyry/better-hangoutschat/master/css/shape.css');
-loadCSS('https://raw.githubusercontent.com/paveyry/better-hangoutschat/master/css/color_dark.css');
+loadCSS('https://raw.githubusercontent.com/nchilder/hangouts-chat/master/shape.css');
+loadCSS('https://raw.githubusercontent.com/nchilder/hangouts-chat/master/hangouts_chat_dark.css');
